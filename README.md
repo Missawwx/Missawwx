@@ -1,16 +1,66 @@
-## Hi there 👋
 
-<!--
-**Missawwx/Missawwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi there 👋, I'm Yassine Missaoui</h1>
+  <p>A passionate young developer exploring the world of software development 💻✨</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<section>
+  <h2>About Me</h2>
+  <ul>
+    <li>🌱 Currently learning <strong>Full-Stack Development</strong></li>
+    <li>👨‍💻 Working on personal projects and open-source contributions</li>
+    <li>💬 Ask me about Java, HTML, CSS, JavaScript, and more</li>
+    <li>🎯 Goal: Build impactful projects that solve real problems</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <table>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Tools & Others</th>
+    </tr>
+    <tr>
+      <td>HTML & CSS</td>
+      <td>Java</td>
+      <td>Git & GitHub</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>SQL</td>
+      <td>VS Code</td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>Node.js</td>
+      <td>Linux / Terminal</td>
+    </tr>
+    <tr>
+      <td>Bootstrap / Tailwind</td>
+      <td>REST APIs</td>
+      <td>Postman</td>
+    </tr>
+  </table>
+</section>
+
+<section>
+  <h2>Projects</h2>
+  <ul>
+    <li>🌟 <a>My Portfolio Website</a> – Showcases my projects and skills ( working on it ...)</li>
+ 
+  </ul>
+</section>
+
+<section>
+  <h2>Connect with Me</h2>
+  <ul>
+    <li>LinkedIn: <a href="#">Yassine Missaoui</a></li>
+    <li>Email: <a>yassinemissaoui264@gmail.com</a></li>
+  
+  </ul>
+</section>
+
+
+
+
