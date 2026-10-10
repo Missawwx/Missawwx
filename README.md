@@ -32,8 +32,8 @@
       <td>VS Code</td>
     </tr>
     <tr>
-      <td>React</td>
-      <td>Node.js</td>
+      <td></td>
+      <td></td>
       <td>Linux / Terminal</td>
     </tr>
   
