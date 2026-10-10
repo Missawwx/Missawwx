@@ -36,11 +36,7 @@
       <td>Node.js</td>
       <td>Linux / Terminal</td>
     </tr>
-    <tr>
-      <td>Bootstrap / Tailwind</td>
-      <td>REST APIs</td>
-      <td>Postman</td>
-    </tr>
+  
   </table>
 </section>
 
